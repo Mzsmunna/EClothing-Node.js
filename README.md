@@ -3,4 +3,4 @@ It's a Ecommerce website, has been build with using Node.js & JavaScript in 2018
 
 MySQL Database has been used. And MVC structure has been followed. 
 
-Make sure Node.js is installed and import c_d.sql in PHPMyAdmin. And you are good to go.
+To run this on your machine , make sure Node.js is installed and import c_d.sql in PHPMyAdmin. And you are good to go.
